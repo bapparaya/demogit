@@ -6,7 +6,9 @@ import org.testng.annotations.Test;
 public class Homepagetest {
 	
 	//123test123 this is newyarktimes
-	//jingchackwibes
+	//be the way you are
+	//love everyone
+
 	@Test
 	public void test()
 	{
